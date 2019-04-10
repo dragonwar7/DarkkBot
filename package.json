@@ -15,12 +15,7 @@
     "start": "npm run build && node dist/ao-killboard.js"
   },
   "dependencies": {
-    "config.json": "0.0.4",
     "discord.js": "^11.1.0",
-    "dockerfile": "^0.1.1",
-    "package-lock.json": "^1.0.0",
-    "package.json": "^2.0.1",
-    "readme.md": "^0.1.1",
     "request": "^2.81.0"
   }
 }
